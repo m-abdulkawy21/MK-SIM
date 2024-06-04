@@ -11,6 +11,7 @@ PROCESSING_TIMES = {
 }
 MAINTENANCE_TIME = 3
 BREAKDOWN_RATE = 0.1
+
 NUM_WORKERS = {
     'loading': 2,
     'machining': 3,
